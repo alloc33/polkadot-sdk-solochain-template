@@ -2,6 +2,8 @@
 
 Substrate blockchain that maps Ethereum addresses to usernames with a custom JSON-RPC interface.
 
+https://github.com/user-attachments/assets/22aabf71-757a-4d6d-a325-9021019ae3e7
+
 ## Build the project
 
 ```bash
