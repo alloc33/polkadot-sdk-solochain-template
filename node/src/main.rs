@@ -7,6 +7,7 @@ mod cli;
 mod command;
 mod rpc;
 mod service;
+mod username_registry_rpc;
 
 fn main() -> sc_cli::Result<()> {
 	command::run()

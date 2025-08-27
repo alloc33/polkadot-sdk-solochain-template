@@ -28,6 +28,7 @@ pallet-transaction-payment-rpc.default-features = true
 pallet-transaction-payment-rpc.workspace = true
 pallet-transaction-payment.default-features = true
 pallet-transaction-payment.workspace = true
+pallet-username-registry = { path = "../pallets/username-registry", default-features = true }
 sc-basic-authorship.default-features = true
 sc-basic-authorship.workspace = true
 sc-cli.default-features = true
